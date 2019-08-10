@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Course Info COMP 4521</string><string name="Welcome">Welcome to</string>
+    
+<string name="CourseCode">COMP 4521</string>
+<string name="CourseTitle">Embedded Systems Software</string>
+<string name="Semester">Spring 2012</string>
+</resources>
